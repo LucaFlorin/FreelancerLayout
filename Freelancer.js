@@ -8,6 +8,8 @@ $(document).ready(function(){
 
   });
 
+  
+
 
   $('.dropdown').click(function(){ 
       $('.dropdown_content').toggleClass('dropdown_content_click');
